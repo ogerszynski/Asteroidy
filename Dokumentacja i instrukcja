@@ -1,0 +1,14 @@
+Dokumentacja
+1. Instrukcja obsługi
+Gra jest prosta w obsłudze. Sterowanie odbywa się za pomocą 3 klawiszy klawiatury:
+    Strzałki w lewo i w prawo służą do poruszania statkiem.
+    Spacja służy do strzelania.
+
+2. Opis techniczny
+Gra składa się z następujących elementów:
+    Program.cs: Główny plik programu, który rozpoczyna grę.
+    GameObject.cs: Klasa bazowa reprezentująca ogólny obiekt gry.
+    Statek.cs: Klasa reprezentująca statek.
+    Asteroidy.cs: Klasa reprezentująca asteroidy.
+    Strzal.cs: Klasa reprezentująca strelanie.
+    Gameplay.cs: Klasa reprezentująca główną logikę gry, która zarządza stanem gry, obsługuje wejście gracza i wyświetla grafikę.
